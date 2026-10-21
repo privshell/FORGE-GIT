@@ -1,0 +1,6 @@
+id=forge_git
+name=FORGE // GIT
+version=v1.0.0
+versionCode=100
+author=kreza6173-pixel
+description=GitHub client inside your root manager. Repos, Actions, releases, push and full API access with your personal access token. Keys stay root-only.
